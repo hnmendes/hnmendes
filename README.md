@@ -13,18 +13,12 @@ About me:
 
 #### Statistics
 
-<p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hnmendes&show_icons=true&count_private=true&theme=algolia" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnmendes&layout=compact&theme=algolia" />
-</p>
-
-![](https://komarev.com/ghpvc/?username=phnc&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hnmendes&show_icons=true&count_private=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnmendes&layout=compact&theme=algolia" />
+<img align="center" src="https://komarev.com/ghpvc/?username=phnc&label=PROFILE+VIEWS&style=flat-square&color=brightgreen" />
 
 #### Stacks
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
