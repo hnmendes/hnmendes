@@ -6,11 +6,10 @@ About me:
 - I have a major crush on software architecture.
 - I'm an enthusiast of Drones, 3d Print, IOT & AI.
 
-#### Follow me:
+#### Reach me:
 
+[![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square&link=https://stackoverflow.com/users/9637645/henrique-n-mendes)](https://stackoverflow.com/users/9637645/henrique-n-mendes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-n-mendes/)](https://www.linkedin.com/in/henrique-n-mendes/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hn.mendes/)](https://www.instagram.com/hn.mendes/)
-
 
 #### Statistics
 
